@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501031426375",
+    "firebase_url": "https://rnfirebasev7-228c5.firebaseio.com",
+    "project_id": "rnfirebasev7-228c5",
+    "storage_bucket": "rnfirebasev7-228c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501031426375:android:1b75dac85b60b30cff9462",
+        "android_client_info": {
+          "package_name": "com.techtipsnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501031426375-l0cq7vs00u0i7mp7peklpo5r73nps3or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techtipsnotification",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "501031426375-0arlua455km7cu05vvc25731ro86t31s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpAgg2FRF-r-tOornpHbRFLYVZ7rH5Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501031426375-0arlua455km7cu05vvc25731ro86t31s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
